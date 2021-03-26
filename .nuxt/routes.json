@@ -1,0 +1,16 @@
+[
+  {
+    "name": "tester",
+    "path": "/tester",
+    "component": "/home/frederick/Documents/Frederick-Developer-Explore/nuxt-global-ui-tester/pages/tester.vue",
+    "chunkName": "pages/tester",
+    "_name": "_7ae6f490"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/frederick/Documents/Frederick-Developer-Explore/nuxt-global-ui-tester/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_61143ade"
+  }
+]
